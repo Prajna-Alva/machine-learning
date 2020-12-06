@@ -1,3 +1,2 @@
 # machine-learning
-<h3> FIND_S algorithm program </h3> 
-<p style="color:blue">This is a paragraph.</p>
+<h3> FIND_S algorithm program in</h3><h2>Python</h2>
